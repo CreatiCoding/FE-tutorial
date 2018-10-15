@@ -9,6 +9,7 @@
 ## SUMMARY
 
 * [\[요약\] 좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](summary/git-7.md)
+* [\[뻘팁\] 코딩 무아지경에 이르기](summary/undefined.md)
 
 ## TIP
 

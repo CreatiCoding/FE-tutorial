@@ -12,7 +12,7 @@ description: Material Design Web UI Components 를 나열한 것입니다.
 
 ### 1. 버튼\(Buttons\)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 {% embed url="https://material.io/develop/web/components/buttons/" %}
 
@@ -24,25 +24,25 @@ description: Material Design Web UI Components 를 나열한 것입니다.
 
 ### 3. 칩\(Chips\)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 {% embed url="https://material.io/develop/web/components/chips/" %}
 
 ### 4. 다이얼로그\(Dialog\)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 {% embed url="https://material.io/develop/web/components/dialogs/" %}
 
 ### 5. 드로어\(Drawers\)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 {% embed url="https://material.io/develop/web/components/drawers/" %}
 
 ### 6. 이미지 리스트\(Image List\)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 {% embed url="https://material.io/develop/web/components/image-lists/" %}
 
@@ -54,31 +54,31 @@ description: Material Design Web UI Components 를 나열한 것입니다.
 
 ### 8. 레이아웃 그리드\(Layout Grid\)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 {% embed url="https://material.io/develop/web/components/layout-grid/" %}
 
 ### 9. 선형 진행\(Linear Progress\)
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 {% embed url="https://material.io/develop/web/components/linear-progress/" %}
 
 ### 10. 리스트\(Lists\)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 {% embed url="https://material.io/develop/web/components/lists/" %}
 
 ### 11. 메뉴\(Menus\)
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 {% embed url="https://material.io/develop/web/components/menus/" %}
 
 ### 12. 리플\(Ripple\)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 {% embed url="https://material.io/develop/web/components/ripples/" %}
 
@@ -90,7 +90,7 @@ description: Material Design Web UI Components 를 나열한 것입니다.
 
 ### 14. 탭바\(Tab Bar\)
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 {% embed url="https://material.io/develop/web/components/tabs/tab-bar/" %}
 
