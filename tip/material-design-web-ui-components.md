@@ -96,7 +96,7 @@ description: Material Design Web UI Components 를 나열한 것입니다.
 
 ### 15. 탑앱바\(Top App Bar\)
 
-![](../.gitbook/assets/image%20%282%29.png")
+![](../.gitbook/assets/image%20%282%29.png)
 
 {% embed url="https://material.io/develop/web/components/top-app-bar/" %}
 
