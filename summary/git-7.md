@@ -1,7 +1,3 @@
----
-description: '본문은 원문( https://meetup.toast.com/posts/106 )의 내용 요약입니다.'
----
-
 # \[요약\] 좋은 git 커밋 메시지를 작성하기 위한 7가지 약속
 
 원문의 출처: Chris Beams의 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
