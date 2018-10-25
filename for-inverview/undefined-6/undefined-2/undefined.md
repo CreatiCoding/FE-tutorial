@@ -6,7 +6,7 @@ description: '@copyright 미래창조과학부 TOPCIT ESSENCE - 데이터베이�
 
 ### 1. 데이터, 정보, 지식에 대한 개념
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 ### 2. 데이터 처리 유형과 특징
 

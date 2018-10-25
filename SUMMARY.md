@@ -25,5 +25,7 @@
 * [소프트웨어공학](for-inverview/undefined-4.md)
 * [네트워크](for-inverview/undefined-5.md)
 * [데이터베이스](for-inverview/undefined-6/README.md)
-  * [데이터의 이해](for-inverview/undefined-6/undefined.md)
+  * [데이터베이스의 개념과 구조](for-inverview/undefined-6/undefined-2/README.md)
+    * [데이터의 이해](for-inverview/undefined-6/undefined-2/undefined.md)
+    * [데이터베이스의 이해](for-inverview/undefined-6/undefined-2/undefined-1.md)
 
