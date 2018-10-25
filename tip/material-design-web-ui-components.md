@@ -10,7 +10,7 @@ Material을 이용한 웹디자인 및 웹개발에 도움이 되기 위해 공�
 
 ### 1. 버튼\(Buttons\)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 {% embed url="https://material.io/develop/web/components/buttons/" caption="" %}
 
@@ -70,7 +70,7 @@ Material을 이용한 웹디자인 및 웹개발에 도움이 되기 위해 공�
 
 ### 11. 메뉴\(Menus\)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 {% embed url="https://material.io/develop/web/components/menus/" caption="" %}
 
@@ -88,7 +88,7 @@ Material을 이용한 웹디자인 및 웹개발에 도움이 되기 위해 공�
 
 ### 14. 탭바\(Tab Bar\)
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 {% embed url="https://material.io/develop/web/components/tabs/tab-bar/" caption="" %}
 
