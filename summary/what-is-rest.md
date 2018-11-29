@@ -10,11 +10,11 @@ REST 패러다임을 이용하여 웹 서비스를 디자인하는 방법을 배
 
 ### 대표적인 상태 전송\(**RE**presentational **S**tate **T**ransfer\)
 
-REST, 혹은 **RE**presentational **S**tate **T**ransfer 는  웹상에서 컴퓨터 시스템간에 표준을 제공하기 위한 구조적 양식이 시스템이 각각의 다른 것들과 더 쉽게 통신하기 위해 만들어 졌습니다. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server. We will go into what these terms mean and why they are beneficial characteristics for services on the Web.
+REST, 혹은 **RE**presentational **S**tate **T**ransfer 는  웹상에서 컴퓨터 시스템간에 표준을 제공하기 위한 구조적 양식이 시스템이 각각의 다른 것들과 더 쉽게 통신하기 위해 만들어졌습니다.  RESTful 시스템이라고도 하는 REST-준수 시스템은 상태 정보를 저장하지 않는 방식으로 클라이언트와 서버의 문제를 구분합니다. 우리는 이 용어가 의미하는 것과 그들이 왜 웹 상의 서비스에 유익한 특징인지 살펴볼 것 입니다.
 
 ### 서버와 클라이언트의 분리
 
-REST 구조에서는 서버와 클라이언트가 서로의 존재를 알지 못한채 독립적으로 구현될 수 있습니다. This means that the code on the client side can be changed at any time without affecting the operation of the server, and the code on the server side can be changed without affecting the operation of the client.
+REST 구조에서는 서버와 클라이언트가 서로의 존재를 알지 못한채 독립적으로 구현될 수 있습니다. 즉, 서버의 작동에 영향을 주지 않고 클라이언트 측 코드를 언제든지 변경할 수 있으며 클라이언트 작동에 영향을 주지 않고 서버 측 코드를 변경할 수 있습니다.
 
 As long as each side knows what format of messages to send to the other, they can be kept modular and separate. Separating the user interface concerns from the data storage concerns, we improve the flexibility of the interface across platforms and improve scalability by simplifying the server components. Additionally, the separation allows each component the ability to evolve independently.
 
