@@ -14,23 +14,9 @@
 
 **개요**
 
-팀 구성원 모두가 들여쓰기를 정확하게 하는 것이 가장 첫 번째 단계입니다.​
+팀 구성원 모두가 들여쓰기를 정확하게 하는 것이 가장 첫 번째 단계입니다.
 
-
-
-&lt;style&gt;  
-\#my-header{  
-    background: \#333;  
-    color: \#fff;  
-}&lt;/style&gt;  
-  
-&lt;h1 id="my-header"&gt; Hello World&lt;/h1&gt;
-
-
-
-&lt;p style=" border-color: \#d32f2f; color: \#d32f2f; border-top: 15px solid; font-weight: 500;"&gt; Don't &lt;/p&gt;
-
-
+<p style=" border-color: #d32f2f; color: #d32f2f; border-top: 15px solid; font-weight: 500;"> Don't </p>
 
 ```text
   if (wl && wl.length) {
